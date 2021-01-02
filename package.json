@@ -1,0 +1,26 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Note app",
+  "main": "index.js",
+  "engines": {
+    "node": "15.2.1",
+    "npm": "6.14.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerald-devOfficial/NoteApp.git"
+  },
+  "author": "Jerald Baroro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerald-devOfficial/NoteApp/issues"
+  },
+  "homepage": "https://github.com/jerald-devOfficial/NoteApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
