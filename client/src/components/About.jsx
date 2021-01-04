@@ -7,7 +7,7 @@ function About() {
         <b>About Notes App</b>
       </h2>
       <p className="about">
-        "Note" is a note-taking CRUD application built with with React.js,
+        "Notes" is a note-taking CRUD application built with with React.js,
         Node.js, and Express.
       </p>
       <p className="about">
