@@ -4,8 +4,8 @@ function Footer() {
   const year = new Date().getFullYear();
   return (
     <footer>
-      Wraglet
-      <p>Copyright ⓒ {year}</p>
+      <p>Wraglet</p>
+      <p style={{ fontSize: "small" }}>Copyright ⓒ {year}</p>
     </footer>
   );
 }
